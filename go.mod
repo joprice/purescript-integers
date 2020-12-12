@@ -12,3 +12,5 @@ require (
 	project.localhost/purescript-native/ffi-loader v0.0.0-00010101000000-000000000000 // indirect
 	project.localhost/purescript-native/output v0.0.0-00010101000000-000000000000 // indirect
 )
+
+replace github.com/purescript-native/go-ffi v0.0.0-20201014044157-f20503d283ff => github.com/joprice/purescript-native-go-ffi v0.0.0-20201210124800-88170d1dd50f

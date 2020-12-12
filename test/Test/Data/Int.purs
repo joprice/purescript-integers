@@ -14,6 +14,11 @@ import Test.Assert (assert)
 testInt :: Effect Unit
 testInt = do
 
+  log "zshr should shift right"
+  assert $ zshr 2048 2 == 512
+  assert $ zshr 2048 3 == 256
+  assert $ zshr (-1) 1 == top
+
   log "fromNumber should coerce integer values"
   assert $ fromNumber 1.0 == Just 1
   assert $ fromNumber 42.0 == Just 42

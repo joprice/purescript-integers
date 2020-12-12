@@ -1,3 +1,7 @@
+github.com/joprice/purescript-native-go-ffi v0.0.0-20201009222900-8006e43317be h1:AEqbDc6tt11ycwncLJXlKS27Vw2sqEJRIhtx7gtw6mM=
+github.com/joprice/purescript-native-go-ffi v0.0.0-20201009222900-8006e43317be/go.mod h1:+WdCk9lpwMdgRaFuLBqxvntMUgbeHkkLEMaodQ3iJ40=
+github.com/joprice/purescript-native-go-ffi v0.0.0-20201210124800-88170d1dd50f h1:qj+3E85eVXhuQhHEL2ylqr9Mx//G6grKVKLz4bYsbrg=
+github.com/joprice/purescript-native-go-ffi v0.0.0-20201210124800-88170d1dd50f/go.mod h1:+WdCk9lpwMdgRaFuLBqxvntMUgbeHkkLEMaodQ3iJ40=
 github.com/purescript-native/go-ffi v0.0.0-20201014044157-f20503d283ff h1:eealeTYOT++cJwkxM46URvAPJ0B4HlJm5aIGFe/Q8yc=
 github.com/purescript-native/go-ffi v0.0.0-20201014044157-f20503d283ff/go.mod h1:1TvaJdjRUFHRmoLQ5QvpR1pnivyd7eBjNA+j1PuktBM=
 github.com/purescript-native/go-runtime v0.1.2 h1:vxVmLXojzc6nkP29qMxHmEd6iwolF309yP/FskRY88Y=
